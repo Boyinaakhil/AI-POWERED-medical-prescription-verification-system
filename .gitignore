@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+.local/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Python dependency management
+*.egg-info/
