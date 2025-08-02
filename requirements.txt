@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+Pillow
+requests
+transformers
+torch
+tqdm
+pytesseract
+opencv-python
