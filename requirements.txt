@@ -8,3 +8,10 @@ torch
 tqdm
 pytesseract
 opencv-python
+streamlit
+pandas
+numpy
+Pillow
+opencv-python-headless
+pytesseract
+requests
